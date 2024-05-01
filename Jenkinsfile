@@ -37,7 +37,7 @@ pipeline{
 			echo 'i am failed'
 		}
 		success{
-			echos 'i got success'
+			echo 'i got success'
 		}
 	}
 }
